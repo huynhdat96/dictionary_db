@@ -90,4 +90,114 @@
     <kind>noun</kind>
     <value>A person who uses magic</value>
 </data>
+<data>
+    <word>Back</word>
+    <kind>noun</kind>
+    <value>The rear part of human body</value>
+</data>
+<data>
+    <word>Cheek</word>
+    <kind>noun</kind>
+    <value>Either side of the face below the eye and above the jaw</value>
+</data>
+<data>
+    <word>Chest</word>
+    <kind>noun</kind>
+    <value>The truck of the body from the neck to the abdomen</value>
+</data>
+<data>
+    <word>Neck</word>
+    <kind>noun</kind>
+    <value>The part of human body of animal or human being that connects the head and the truck</value>
+</data>
+<data>
+    <word>Animal</word>
+    <kind>noun</kind>
+    <value>Any such living thing other than a human being</value>
+</data>
+<data>
+    <word>Fish</word>
+    <kind>noun</kind>
+    <value>Any of various other aquatic animals</value>
+</data>
+<data>
+    <word>Food</word>
+    <kind>noun</kind>
+    <value>Any nourishing substance that is eaten</value>
+</data>
+<data>
+    <word>Solid</word>
+    <kind>adjective</kind>
+    <value>A geometrical body of figure</value>
+</data>
+<data>
+    <word>Liquid</word>
+    <kind>adjective</kind>
+    <value>Flowing like water</value>
+</data>
+<data>
+    <word>Bright</word>
+    <kind>adjective</kind>
+    <value>Radiating of reflecting light</value>
+</data>
+<data>
+    <word>Intelligent</word>
+    <kind>adjective</kind>
+    <value>Having good understanding or a high mental capacity</value>
+</data>
+<data>
+    <word>Sound</word>
+    <kind>noun</kind>
+    <value>The particular auditory effect produced by a given cause</value>
+</data>
+<data>
+    <word>Organs</word>
+    <kind>noun</kind>
+    <value>A grouping of tissues into a distinct structure</value>
+</data>
+<data>
+    <word>Heart</word>
+    <kind>noun</kind>
+    <value>The center of the total personality</value>
+</data>
+<data>
+    <word>Enthusiasm</word>
+    <kind>noun</kind>
+    <value>Absorbing or controlling possession of the mind by any interest or pursuit</value>
+</data>
+<data>
+    <word>Occupation</word>
+    <kind>noun</kind>
+    <value>Any activity in which a person is engaged</value>
+</data>
+<data>
+    <word>Property</word>
+    <kind>noun</kind>
+    <value>That which a person owns</value>
+</data>
+<data>
+    <word>Owner</word>
+    <kind>noun</kind>
+    <value>A person who owns</value>
+</data>
+<data>
+    <word>Defeat</word>
+    <kind>verb</kind>
+    <value>To overcome in a contest</value>
+</data>
+<data>
+    <word>Battle</word>
+    <kind>noun</kind>
+    <value>The fight between 2 persons or animals</value>
+</data>
+<data>
+    <word>Army</word>
+    <kind>noun</kind>
+    <value>The military forces of a nation</value>
+</data>
+<data>
+    <word>Organization</word>
+    <kind>noun</kind>
+    <value>The administrative personnel or apparatus of a business</value>
+</data>
 </dictionary>
