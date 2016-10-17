@@ -1,0 +1,74 @@
+﻿<?xml version="1.0"?>
+<dictionary>
+    <data>
+    <word>Hello</word>
+    <kind>verb</kind>
+    <value>Say hi to someone</value>
+</data>
+<data>
+    <word>Kill</word>
+    <kind>verb</kind>
+    <value>Kill someone</value>
+</data>
+<data>
+    <word>Run</word>
+    <kind>verb</kind>
+    <value>Run to a place or a different position</value>
+</data>
+<data>
+    <word>Note</word>
+    <kind>Noun</kind>
+    <value>A blank book that people used to write stuff</value>
+</data>
+<data>
+    <word>Gun</word>
+    <kind>Noun</kind>
+    <value>A weapon that people used to kill someone</value>
+</data>
+<data>
+    <word>Effect</word>
+    <kind>Noun</kind>
+    <value>An effect of a beautiful image</value>
+</data>
+<data>
+    <word>PC</word>
+    <kind>Noun</kind>
+    <value>A personal computer</value>
+</data>
+<data>
+    <word>MAC</word>
+    <kind>Noun</kind>
+    <value>A macintosh operation system</value>
+</data>
+<data>
+    <word>Winodws</word>
+    <kind>Noun</kind>
+    <value>A hole on a wall</value>
+</data>
+<data>
+    <word>Piano</word>
+    <kind>Noun</kind>
+    <value>An instrument</value>
+</data>
+<data>
+    <word>Phone</word>
+    <kind>Noun</kind>
+    <value>A communication device</value>
+</data>
+<data>
+    <word>Book</word>
+    <kind>Noun</kind>
+    <value>A bunch of paper that contains a lot of work</value>
+</data>
+<data>
+    <word>Cease</word>
+    <kind>verb</kind>
+    <value>to stop happening or continuing</value>
+</data>
+<data>
+    <word>Earth</word>
+    <kind>noun</kind>
+    <value>The third planet in the solar system</value>
+</data>
+</dictionary>
+
