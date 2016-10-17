@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0"?>
 <dictionary>
-    <data>
+<data>
     <word>Hello</word>
     <kind>verb</kind>
     <value>Say hi to someone</value>
@@ -70,5 +70,19 @@
     <kind>noun</kind>
     <value>The third planet in the solar system</value>
 </data>
+<data>
+    <word>Monitor</word>
+    <kind>noun</kind>
+    <value>A computer display or a laptop display</value>
+</data>
+<data>
+    <word>House</word>
+    <kind>noun</kind>
+    <value>A place to live</value>
+</data>
+<data>
+    <word>Fighter</word>
+    <kind>noun</kind>
+    <value>A solider in a war</value>
+</data>
 </dictionary>
-
