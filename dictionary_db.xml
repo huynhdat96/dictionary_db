@@ -85,4 +85,9 @@
     <kind>noun</kind>
     <value>A solider in a war</value>
 </data>
+<data>
+    <word>Witch</word>
+    <kind>noun</kind>
+    <value>A person who uses magic</value>
+</data>
 </dictionary>
